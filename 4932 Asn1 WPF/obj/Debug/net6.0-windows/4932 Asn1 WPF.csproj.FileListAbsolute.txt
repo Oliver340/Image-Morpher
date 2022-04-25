@@ -1,0 +1,23 @@
+C:\Users\olive\source\repos\4932 Asn1 WPF\4932 Asn1 WPF\bin\Debug\net6.0-windows\4932 Asn1 WPF.exe
+C:\Users\olive\source\repos\4932 Asn1 WPF\4932 Asn1 WPF\bin\Debug\net6.0-windows\4932 Asn1 WPF.deps.json
+C:\Users\olive\source\repos\4932 Asn1 WPF\4932 Asn1 WPF\bin\Debug\net6.0-windows\4932 Asn1 WPF.runtimeconfig.json
+C:\Users\olive\source\repos\4932 Asn1 WPF\4932 Asn1 WPF\bin\Debug\net6.0-windows\4932 Asn1 WPF.dll
+C:\Users\olive\source\repos\4932 Asn1 WPF\4932 Asn1 WPF\bin\Debug\net6.0-windows\ref\4932 Asn1 WPF.dll
+C:\Users\olive\source\repos\4932 Asn1 WPF\4932 Asn1 WPF\bin\Debug\net6.0-windows\4932 Asn1 WPF.pdb
+C:\Users\olive\source\repos\4932 Asn1 WPF\4932 Asn1 WPF\obj\Debug\net6.0-windows\4932 Asn1 WPF.csproj.AssemblyReference.cache
+C:\Users\olive\source\repos\4932 Asn1 WPF\4932 Asn1 WPF\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\olive\source\repos\4932 Asn1 WPF\4932 Asn1 WPF\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\olive\source\repos\4932 Asn1 WPF\4932 Asn1 WPF\obj\Debug\net6.0-windows\4932 Asn1 WPF_MarkupCompile.cache
+C:\Users\olive\source\repos\4932 Asn1 WPF\4932 Asn1 WPF\obj\Debug\net6.0-windows\4932 Asn1 WPF_MarkupCompile.lref
+C:\Users\olive\source\repos\4932 Asn1 WPF\4932 Asn1 WPF\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\olive\source\repos\4932 Asn1 WPF\4932 Asn1 WPF\obj\Debug\net6.0-windows\4932 Asn1 WPF.g.resources
+C:\Users\olive\source\repos\4932 Asn1 WPF\4932 Asn1 WPF\obj\Debug\net6.0-windows\4932 Asn1 WPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olive\source\repos\4932 Asn1 WPF\4932 Asn1 WPF\obj\Debug\net6.0-windows\4932 Asn1 WPF.AssemblyInfoInputs.cache
+C:\Users\olive\source\repos\4932 Asn1 WPF\4932 Asn1 WPF\obj\Debug\net6.0-windows\4932 Asn1 WPF.AssemblyInfo.cs
+C:\Users\olive\source\repos\4932 Asn1 WPF\4932 Asn1 WPF\obj\Debug\net6.0-windows\4932 Asn1 WPF.csproj.CoreCompileInputs.cache
+C:\Users\olive\source\repos\4932 Asn1 WPF\4932 Asn1 WPF\obj\Debug\net6.0-windows\4932 Asn1 WPF.dll
+C:\Users\olive\source\repos\4932 Asn1 WPF\4932 Asn1 WPF\obj\Debug\net6.0-windows\ref\4932 Asn1 WPF.dll
+C:\Users\olive\source\repos\4932 Asn1 WPF\4932 Asn1 WPF\obj\Debug\net6.0-windows\4932 Asn1 WPF.pdb
+C:\Users\olive\source\repos\4932 Asn1 WPF\4932 Asn1 WPF\obj\Debug\net6.0-windows\4932 Asn1 WPF.genruntimeconfig.cache
+C:\Users\olive\source\repos\4932 Asn1 WPF\4932 Asn1 WPF\obj\Debug\net6.0-windows\MorphWindow.g.cs
+C:\Users\olive\source\repos\4932 Asn1 WPF\4932 Asn1 WPF\obj\Debug\net6.0-windows\MorphWindow.baml
